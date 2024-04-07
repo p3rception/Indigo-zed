@@ -10,7 +10,7 @@
 
 ## Screenshot
 
-<div align="center"><img src="https://i.ibb.co/s6TBq39/preview-1.png"/></div>
+<div align="center"><img src="https://i.imgur.com/uJ8gO3Z.png"/></div>
 
 ## Installation
 
