@@ -8,9 +8,12 @@
 
 </div>
 
-## Screenshot
+## Basic 
 
 <div align="center"><img src="https://i.imgur.com/uJ8gO3Z.png"/></div>
+
+## Clear (blurred)
+<div align="center"><img src="https://i.imgur.com/QagFN7L.png"/></div>
 
 ## Installation
 
