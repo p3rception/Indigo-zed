@@ -19,5 +19,5 @@
 
 1. Open Zed.
 2. `cmd+shift+p` and select _zed: extensions_
-3. Searh for `Indigo` and install.
+3. Search for `Indigo` and install.
 4. Select the theme in the dropdown.
