@@ -13,7 +13,7 @@
 <div align="center"><img src="https://i.imgur.com/uJ8gO3Z.png"/></div>
 
 ## Clear (blurred)
-<div align="center"><img src="https://i.imgur.com/NuN4DEw.png"/></div>
+<div align="center"><img src="https://i.imgur.com/YAHg5ll.png"/></div>
 
 ## Installation
 
