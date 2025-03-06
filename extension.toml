@@ -1,0 +1,7 @@
+name = "Indigo Theme"
+version = "0.1.3"
+authors = ["p3rception <dim.pergel@gmail.com>"]
+description = "Dark. Clean. Indigo."
+repository = "https://github.com/p3rception/Indigo-zed"
+id = "indigo-theme"
+schema_version = 1
